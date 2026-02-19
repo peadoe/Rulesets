@@ -1,5 +1,5 @@
-#!name=Apple Intelligence
-#!desc=苹果AI规则
+#Apple Intelligence
+#苹果AI规则
 
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
