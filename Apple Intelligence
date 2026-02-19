@@ -1,9 +1,10 @@
 #!name=Apple Intelligence
 #!desc=苹果AI规则
 
-domain-suffix,guzzoni.apple.com
-domain-suffix,smoot.apple.com
-domain-suffix,apple-relay.cloudflare.com
-domain-suffix,apple-relay.fastly-edge.com
-domain-suffix,cp4.cloudflare.com
-domain-suffix,apple-relay.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
