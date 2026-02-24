@@ -1,4 +1,5 @@
-domain-suffix,xn--4gqy2fnwcsx7i.top #67373
+domain-suffix,xn--4gqy2fnwcsx7i.top
+domain-suffix,ctyunxs.cn #天翼云
 domain-suffix,cn2gias.uk #守候影院
 domain-suffix,oceancloud.asia #云海
 domain-keyword,liminalnet #临境系
@@ -9,26 +10,29 @@ domain-suffix,emos.best #emos
 domain,hmian.sharepoint.com #emos
 domain,liangsheng32126.sharepoint.com #emos
 domain,17715191314163-my.sharepoint.com #emos
-
-domain-suffix,191920.xyz #一之濑琴美
 domain-suffix,emby.my #月饼
 domain-suffix,apple-cdn.net #月饼
-domain-suffix,nubebelle.vip #云幕
-domain-suffix,emby.ifvip.vip #私人影院
 domain-suffix,feiniu.lol #肥牛
 domain-suffix,okemby.org #okemby
 domain-suffix,nebula-media.org #星云
-domain,emby.bangumi.ca #nyamedia
-domain-suffix,emby.bangumi.ca,DIRECT #nyamedia直连
-domain-suffix,l0323.top #不吃香菜
-domain-suffix,ctyunxs.cn #天翼云
-domain-suffix,yezi.my #叶子
+domain-suffix,emby.bangumi.ca #nyamedia
+domain-suffix,lyezi.cc #叶子
 domain-suffix,3msky.com #msky
 domain-suffix,faemby.vip #无拘
-domain-suffix,entertang.work #etflix
+domain-suffix,istyboe.top #泥嚎
+domain-suffix,pushgoodcloud.com #泥嚎
+ip-cidr,199.188.198.202/32 #HelloHK
+
+
+
+
+
+
+
 domain-suffix,emby.nas.edu.kg #Cookie
 ip-cidr,199.188.198.202/32 #HelloHK
-domain-suffix,istyboe.top #泥嚎
+
 domain-suffix,101514.xyz #embydada
 domain-suffix,free.28.al #起点站
 domain-suffix,freestream.startspoint.com #起点站推流
+domain-suffix,emby.ifvip.vip #私人影院
