@@ -1,10 +1,17 @@
-DOMAIN-SUFFIX,xn--4gqy2fnwcsx7i.top #67373
-DOMAIN-SUFFIX,ctyunxs.cn #天翼云
-DOMAIN-SUFFIX,cn2gias.uk #守候影院
-DOMAIN-SUFFIX,oceancloud.asia #云海
-DOMAIN-KEYWORD,liminalnet #临境
-DOMAIN-SUFFIX,hka-emby.aliz.work #hka
-DOMAIN-SUFFIX,shrekmedia.org #Shrek
+DOMAIN-SUFFIX,xn--4gqy2fnwcsx7i.top
+#67373
+DOMAIN-SUFFIX,ctyunxs.cn
+#天翼云
+DOMAIN-SUFFIX,cn2gias.uk
+#守候影院
+DOMAIN-SUFFIX,oceancloud.asia
+#云海
+DOMAIN-KEYWORD,liminalnet
+#临境
+DOMAIN-SUFFIX,hka-emby.aliz.work
+#hka
+DOMAIN-SUFFIX,shrekmedia.org
+#Shrek
 DOMAIN-SUFFIX,hohai.eu.org #Hohai
 DOMAIN-SUFFIX,emos.best #emos
 DOMAIN,hmian.sharepoint.com #emos
