@@ -21,18 +21,38 @@ domain-suffix,3msky.com #msky
 domain-suffix,faemby.vip #无拘
 domain-suffix,istyboe.top #泥嚎
 domain-suffix,pushgoodcloud.com #泥嚎
-ip-cidr,199.188.198.202/32 #HelloHK
-
-
-
-
-
-
-
-domain-suffix,emby.nas.edu.kg #Cookie
-ip-cidr,199.188.198.202/32 #HelloHK
-
+domain-suffix,hellohk.me #HelloHK
 domain-suffix,101514.xyz #embydada
 domain-suffix,free.28.al #起点站
-domain-suffix,freestream.startspoint.com #起点站推流
+domain-suffix,freestream.startspoint.com #起点站
+domain-suffix,eoos.lol #eoos
+domain-suffix,notfounda.shop #404
+domain-suffix,miraiemby.com #mirai
+domain-suffix,jiedaibao.gs #mirai
+domain-suffix,sfcj.org #飞越
+domain-suffix,media.emby.pro #飞越
+domain-suffix,emby.wenjian.de #稳健
+domain-suffix,007.us.kg #nayovo
+domain-suffix,tyemby.klplay.top #kl
+domain-suffix,ness1.xxqqx.cn
+domain-suffix,wedg.top #We
+domain-suffix,gousen.cc.cd #gousen
+domain-suffix,emby.ichinosekotomi.com #一之濑琴美
+
+#公费
+domain-suffix,tufei.de #TFTV
+domain-suffix,hao5.de #TFTV
+domain-suffix,limina.552554.xyz #临境Pro
+domain-suffix,onyra.cc #Onyra
+domain-suffix,onyra.uk #Onyra
+domain-suffix,ness1.xxqqx.cn #流影
+domain-suffix,mjji.de #流影
+
+#涩涩
+domain-suffix,emby.nas.edu.kg #Cookie
+
+
+
+
+
 domain-suffix,emby.ifvip.vip #私人影院
