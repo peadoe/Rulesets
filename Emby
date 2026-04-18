@@ -104,10 +104,13 @@ DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,ash.yt
 
 #Mirage
-test.28.al
+DOMAIN-SUFFIX,test.28.al
 
 #一之濑琴美
 DOMAIN-SUFFIX,emby.ichinosekotomi.com
+
+#冰镇西瓜
+DOMAIN-SUFFIX,chilledmelon.com
 
 #TFTV
 DOMAIN-SUFFIX,tufei.de
