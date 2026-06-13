@@ -59,9 +59,6 @@ DOMAIN-SUFFIX,faemby.vip
 DOMAIN-SUFFIX,istyboe.top
 DOMAIN-SUFFIX,pushgoodcloud.com
 
-#DEC
-DOMAIN-SUFFIX,iemby.cn
-
 #embydada
 DOMAIN-SUFFIX,101514.xyz
 
@@ -74,10 +71,6 @@ DOMAIN-SUFFIX,eoos.lol
 
 #404
 DOMAIN-SUFFIX,notfounda.shop
-
-#mirai
-DOMAIN-SUFFIX,miraiemby.com
-DOMAIN-SUFFIX,jiedaibao.gs
 
 #飞越
 DOMAIN-SUFFIX,sfcj.org
@@ -105,14 +98,8 @@ DOMAIN-SUFFIX,emby.yun
 DOMAIN-SUFFIX,ash.yt
 DOMAIN-SUFFIX,asubaka.de
 
-#Mirage
-DOMAIN-SUFFIX,test.28.al
-
 #一之濑琴美
 DOMAIN-SUFFIX,emby.ichinosekotomi.com
-
-#冰镇西瓜
-DOMAIN-SUFFIX,chilledmelon.com
 
 #影迹
 DOMAIN-SUFFIX,cf.cinetrail.live
