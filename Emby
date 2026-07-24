@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,ctyunxs.cn
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,array2026.com
 
-#云海
-DOMAIN-SUFFIX,oceancloud.asia
-
 #临境
 DOMAIN-KEYWORD,liminalnet
 
@@ -120,6 +117,9 @@ DOMAIN-SUFFIX,eb.zzm.li
 
 #银河列车
 DOMAIN-SUFFIX,yuanshen.help
+
+#ETFLIX
+DOMAIN-SUFFIX,goemby.entertang.work
 
 #Cookie
 DOMAIN-SUFFIX,emby.nas.edu.kg
