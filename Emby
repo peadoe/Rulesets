@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,array2026.com
 #临境
 DOMAIN-KEYWORD,liminalnet
 
-#hka
-DOMAIN-SUFFIX,hka-emby.aliz.work
-
 #Shrek
 DOMAIN-SUFFIX,shrekmedia.org
 
@@ -30,9 +27,6 @@ DOMAIN,cloudpans.sharepoint.com
 #月饼
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,apple-cdn.net
-
-#肥牛
-DOMAIN-SUFFIX,feiniu.lol
 
 #okemby
 DOMAIN-SUFFIX,okemby.org
@@ -52,14 +46,10 @@ DOMAIN-SUFFIX,3msky.com
 #无拘
 DOMAIN-SUFFIX,faemby.vip
 
-#embydada
-DOMAIN-SUFFIX,707909.xyz
-DOMAIN-SUFFIX,ccyu.ccwu.cc
-DOMAIN-SUFFIX,101514.xyz
-
 #起点站
-DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,freestream.startspoint.com
+DOMAIN-SUFFIX,stream.1huanlesap02.top
 
 #eoos
 DOMAIN-SUFFIX,eoos.top
@@ -77,17 +67,8 @@ DOMAIN-SUFFIX,wenjian.de
 #nayovo
 DOMAIN-SUFFIX,007.us.kg
 
-#kl
-DOMAIN-SUFFIX,tyemby.klplay.top
-
 #We
 DOMAIN-SUFFIX,wedg.top
-
-#gousen
-DOMAIN-SUFFIX,gousen.cc.cd
-
-#小姨子直连
-DOMAIN-SUFFIX,emby.yun
 
 #ASK ASH
 DOMAIN-SUFFIX,ash.yt
@@ -103,14 +84,6 @@ DOMAIN-SUFFIX,cf.aixj.de
 #TFTV
 DOMAIN-SUFFIX,tufei.de
 DOMAIN-SUFFIX,hao5.de
-
-#临境Pro
-DOMAIN-SUFFIX,cdn.liminalnet.pro
-DOMAIN-SUFFIX,limina.552554.xyz
-
-#Onyra
-DOMAIN-SUFFIX,onyra.cc
-DOMAIN-SUFFIX,onyra.uk
 
 #那只猫
 DOMAIN-SUFFIX,eb.zzm.li
@@ -130,6 +103,12 @@ DOMAIN-SUFFIX,teawaya.com
 
 #沪上阿姨
 DOMAIN-SUFFIX,snowstorm.cc.cd
+
+#佬友记
+DOMAIN-SUFFIX,605305.xyz
+
+#doubon
+DOMAIN-SUFFIX,114514.quest
 
 #Cookie
 DOMAIN-SUFFIX,emby.nas.edu.kg
