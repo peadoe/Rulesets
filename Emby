@@ -74,9 +74,6 @@ DOMAIN-SUFFIX,wedg.top
 DOMAIN-SUFFIX,ash.yt
 DOMAIN-SUFFIX,asubaka.de
 
-#一之濑琴美
-DOMAIN-SUFFIX,emby.ichinosekotomi.com
-
 #影迹
 DOMAIN-SUFFIX,cf.cinetrail.live
 DOMAIN-SUFFIX,cf.aixj.de
@@ -85,7 +82,7 @@ DOMAIN-SUFFIX,cf.aixj.de
 DOMAIN-SUFFIX,tufei.de
 DOMAIN-SUFFIX,hao5.de
 
-#那只猫
+#这只猫
 DOMAIN-SUFFIX,eb.zzm.li
 DOMAIN-SUFFIX,ftp2.eu.org
 
@@ -110,5 +107,11 @@ DOMAIN-SUFFIX,605305.xyz
 #doubon
 DOMAIN-SUFFIX,114514.quest
 
+#随时跑路
+DOMAIN-SUFFIX,kingemby.com
+
 #Cookie
 DOMAIN-SUFFIX,emby.nas.edu.kg
+
+#流光画廊
+DOMAIN-SUFFIX,dqx99999.shop
