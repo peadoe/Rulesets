@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,aemby.de
 #Levilde
 DOMAIN-SUFFIX,emby.levilde.bond
 
+#稳健
+DOMAIN-SUFFIX,wenjian.de
+
 #Shrek
 DOMAIN-SUFFIX,shrekmedia.org
 
@@ -62,9 +65,6 @@ DOMAIN-SUFFIX,notfounda.shop
 #飞越
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,media.emby.pro
-
-#稳健
-DOMAIN-SUFFIX,wenjian.de
 
 #nayovo
 DOMAIN-SUFFIX,007.us.kg
