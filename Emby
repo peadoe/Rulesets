@@ -29,6 +29,15 @@ DOMAIN-SUFFIX,media.emby.pro
 DOMAIN-SUFFIX,ccwu.cc
 DOMAIN-KEYWORD,yusen.c
 
+#We
+DOMAIN-SUFFIX,wedg.top
+
+#随时跑路
+DOMAIN-SUFFIX,kingemby.com
+
+#Peach
+DOMAIN-SUFFIX,embymv.cc
+
 #Shrek
 DOMAIN-SUFFIX,shrekmedia.org
 
@@ -73,9 +82,6 @@ DOMAIN-SUFFIX,notfounda.shop
 #nayovo
 DOMAIN-SUFFIX,007.us.kg
 
-#We
-DOMAIN-SUFFIX,wedg.top
-
 #ASK ASH
 DOMAIN-SUFFIX,ash.yt
 DOMAIN-SUFFIX,asubaka.de
@@ -111,14 +117,9 @@ DOMAIN-SUFFIX,605305.xyz
 #doubon
 DOMAIN-SUFFIX,114514.quest
 
-#随时跑路
-DOMAIN-SUFFIX,kingemby.com
-
 #茉莉
 #直连
 
-#Peach
-DOMAIN-SUFFIX,embymv.link
 
 #回声
 DOMAIN-SUFFIX,echoflix.de
