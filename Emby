@@ -21,6 +21,14 @@ DOMAIN-SUFFIX,emby.levilde.bond
 #稳健
 DOMAIN-SUFFIX,wenjian.de
 
+#非越
+DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
+
+#初予
+DOMAIN-SUFFIX,ccwu.cc
+DOMAIN-KEYWORD,yusen.c
+
 #Shrek
 DOMAIN-SUFFIX,shrekmedia.org
 
@@ -62,10 +70,6 @@ DOMAIN-SUFFIX,eoos.top
 #404
 DOMAIN-SUFFIX,notfounda.shop
 
-#飞越
-DOMAIN-SUFFIX,sfcj.org
-DOMAIN-SUFFIX,media.emby.pro
-
 #nayovo
 DOMAIN-SUFFIX,007.us.kg
 
@@ -93,9 +97,6 @@ DOMAIN-SUFFIX,yuanshen.help
 
 #ETFLIX
 DOMAIN-SUFFIX,goemby.entertang.work
-
-#初予
-DOMAIN-SUFFIX,ccwu.cc
 
 #茶百道
 DOMAIN-SUFFIX,chapanda.site
