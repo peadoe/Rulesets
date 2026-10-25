@@ -30,9 +30,6 @@ DOMAIN-SUFFIX,vipdc.covh.eu.org
 DOMAIN-SUFFIX,entertang.work
 DOMAIN-SUFFIX,etflix.lol
 
-#稳健
-DOMAIN-SUFFIX,wenjian.de
-
 #非越
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,media.emby.pro
@@ -77,6 +74,9 @@ DOMAIN-SUFFIX,lyezi.cc
 
 #msky
 DOMAIN-SUFFIX,betop.uk
+
+#稳健
+DOMAIN-SUFFIX,wenjian.de
 
 #无拘
 DOMAIN-SUFFIX,faemby.vip
