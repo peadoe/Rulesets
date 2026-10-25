@@ -26,6 +26,10 @@ DOMAIN-KEYWORD,yusen.c
 DOMAIN-SUFFIX,eb.zzm.li
 DOMAIN-SUFFIX,vipdc.covh.eu.org
 
+#ETFLIX
+DOMAIN-SUFFIX,entertang.work
+DOMAIN-SUFFIX,etflix.lol
+
 #稳健
 DOMAIN-SUFFIX,wenjian.de
 
@@ -100,9 +104,6 @@ DOMAIN-SUFFIX,hao5.de
 
 #银河列车
 DOMAIN-SUFFIX,yuanshen.help
-
-#ETFLIX
-DOMAIN-SUFFIX,goemby.entertang.work
 
 #茶百道
 DOMAIN-SUFFIX,chapanda.site
